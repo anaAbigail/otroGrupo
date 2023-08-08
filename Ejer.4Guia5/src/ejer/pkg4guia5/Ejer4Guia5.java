@@ -18,7 +18,8 @@ public class Ejer4Guia5 {
         // TODO code application logic here
         
         
-        System.Out.Prinln("Hola mundo, como estan? !!");
+        System.out.println("Hola mundo, como estan? !!");
+        // hola
         
     }
     
